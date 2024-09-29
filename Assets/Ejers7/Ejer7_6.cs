@@ -21,7 +21,7 @@ public class Ejercicios7_6 : MonoBehaviour
         while (j >= -num)
         {
             Debug.Log(j);
-            j--; // Decrementar el valor
+            j--;
         }
 
     }
